@@ -1,0 +1,76 @@
+# Notepad++
+
+[软件目录](README.md) · [首页](../../README.md)
+
+Windows 文本与代码编辑器。按 x86、x64 或 ARM64 选择官方安装包或便携包。
+
+- 分类：文本编辑
+- 平台：Windows
+- 官网：<https://github.com/notepad-plus-plus/notepad-plus-plus>
+- 版本：v8.9.9.1
+- 状态：正常
+- 最近成功检查（UTC）：2026-11-14T11:55:57+00:00
+- 最近尝试（UTC）：2026-11-14T11:55:57+00:00
+- 上游发布时间：2026-11-12T01:22:26Z
+
+上游发布/下载页：<https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.9.9.1>
+
+## 官方下载
+
+按文件名核对系统、架构和安装类型，下载前核对上游签名或校验值。
+
+- [npp.8.9.9.1.checksums.sha256](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.checksums.sha256)
+- [npp.8.9.9.1.checksums.sha256.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.checksums.sha256.sig)
+- [npp.8.9.9.1.Installer.arm64.exe](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.Installer.arm64.exe)
+- [npp.8.9.9.1.Installer.arm64.exe.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.Installer.arm64.exe.sig)
+- [npp.8.9.9.1.Installer.exe](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.Installer.exe)
+- [npp.8.9.9.1.Installer.exe.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.Installer.exe.sig)
+- [npp.8.9.9.1.Installer.x64.exe](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.Installer.x64.exe)
+- [npp.8.9.9.1.Installer.x64.exe.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.Installer.x64.exe.sig)
+- [npp.8.9.9.1.Installer.x64.msi](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.Installer.x64.msi)
+- [npp.8.9.9.1.Installer.x64.msi.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.Installer.x64.msi.sig)
+- [npp.8.9.9.1.portable.7z](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.7z)
+- [npp.8.9.9.1.portable.7z.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.7z.sig)
+- [npp.8.9.9.1.portable.arm64.7z](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.arm64.7z)
+- [npp.8.9.9.1.portable.arm64.7z.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.arm64.7z.sig)
+- [npp.8.9.9.1.portable.arm64.zip](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.arm64.zip)
+- [npp.8.9.9.1.portable.arm64.zip.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.arm64.zip.sig)
+- [npp.8.9.9.1.portable.minimalist.7z](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.minimalist.7z)
+- [npp.8.9.9.1.portable.minimalist.7z.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.minimalist.7z.sig)
+- [npp.8.9.9.1.portable.minimalist.arm64.7z](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.minimalist.arm64.7z)
+- [npp.8.9.9.1.portable.minimalist.arm64.7z.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.minimalist.arm64.7z.sig)
+- [npp.8.9.9.1.portable.minimalist.x64.7z](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.minimalist.x64.7z)
+- [npp.8.9.9.1.portable.minimalist.x64.7z.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.minimalist.x64.7z.sig)
+- [npp.8.9.9.1.portable.x64.7z](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.x64.7z)
+- [npp.8.9.9.1.portable.x64.7z.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.x64.7z.sig)
+- [npp.8.9.9.1.portable.x64.zip](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.x64.zip)
+- [npp.8.9.9.1.portable.x64.zip.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.x64.zip.sig)
+- [npp.8.9.9.1.portable.zip](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.zip)
+- [npp.8.9.9.1.portable.zip.sig](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9.1/npp.8.9.9.1.portable.zip.sig)
+
+## 上游更新说明（原文）
+
+以下为上游原文的纯文本展示；官网来源可能提供完整历史日志，不仅当前版本。
+
+````text
+Release note:
+https://notepad-plus-plus.org/news/v8991-released/
+
+
+SHA256 Digest:
+```
+e5ac20348d83693a2816f4ed8e4a3118d5759f258af07c8cec525d1e0cc026e9  npp.8.9.9.1.Installer.arm64.exe
+8f6f564e628d35f20fdf0f38fa827f843c29b834c2e16f5e70091acac259df95  npp.8.9.9.1.Installer.exe
+ce3267f5c4e7e42f847e00f4b20234da6150647203033cdde34a69593efc3152  npp.8.9.9.1.Installer.x64.exe
+e3b0607a092ce2604fbdac027db2c94915995e8e568ebd226f8c5493c2f61a80  npp.8.9.9.1.Installer.x64.msi
+83202b830253c9011b3e89a9bafd0675eba19dd569165ef98b9ac1d699b06c83  npp.8.9.9.1.portable.7z
+b21a8c3fe11c6b4e098b60cc4890eef50c213d70b7bceda25ce988ac5f0efaf7  npp.8.9.9.1.portable.arm64.7z
+de0c5d1f15ccbdeac05421e1c282cb3d7e2da97bac674efa576d8ace04a5f20b  npp.8.9.9.1.portable.arm64.zip
+1baebaf490fc226a06fe51fabaa6b54b9c2dce4395d40e26c352c6d4d6d27ae7  npp.8.9.9.1.portable.minimalist.7z
+00d4128068209d10f92d039a14188d3cbd1448f6af4f748ede9ba7acc5db7924  npp.8.9.9.1.portable.minimalist.arm64.7z
+3a3afa949ff6a78dbcc3c52eeec71d97579a6ecc5876363ef5d8ef94a7f100e6  npp.8.9.9.1.portable.minimalist.x64.7z
+bb3d02ffac604dda3cac890a5ac470e2844235b46498c75e1bf78c3f55bc0818  npp.8.9.9.1.portable.x64.7z
+cbcefa34677e10fe6dd19802f7d6b3b9860cd6de62afeaae7680e09c51b47779  npp.8.9.9.1.portable.x64.zip
+7b48fceec762e80c2bc781a59739403f7af8b6136ed0ffc369a2680c535ab78a  npp.8.9.9.1.portable.zip
+```
+````

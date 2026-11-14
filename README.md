@@ -6,14 +6,14 @@
 
 ## 能做什么
 
-- **GitHub 来源**：通过官方 Releases API 获取最新稳定版、发布资产和原文更新说明，不将测试版当稳定版。
+- **GitHub 来源**：通过官方 Releases API 默认获取最新稳定版、发布资产和原文更新说明；仅显式启用的条目跟踪预发行版，并明确标注，不将测试版当稳定版。
 - **官网来源**：按每个站点的解析规则获取版本和官方下载链接，读取指定官方更新日志。首例为 7-Zip。
 - **自动维护**：GitHub Actions 每日北京时间 09:17 左右检查，也支持 Actions 页面手动运行。定时任务可能延迟，不保证准点。
 - **Markdown 展示**：每个软件有独立页面，总目录提供分类、平台、版本、来源和采集状态。
 - **人工知识库**：技巧和配置指南独立保存，自动采集不会改写。
 - **失败保护**：失败保留上次成功数据并标注错误，工作流报告失败，避免把旧版本伪装成最新版本。
 
-## 首批软件
+## 收录软件
 
 | 软件 | 来源 | 主要用途 |
 | --- | --- | --- |
@@ -21,6 +21,15 @@
 | [PowerToys](docs/software/powertoys.md) | GitHub | Windows 效率工具 |
 | [LocalSend](docs/software/localsend.md) | GitHub | 跨平台局域网传输 |
 | [Ventoy](docs/software/ventoy.md) | GitHub | 多镜像启动 U 盘 |
+| [Fira Code](docs/software/fira-code.md) | GitHub | 编程连字字体 |
+| [Iosevka](docs/software/iosevka.md) | GitHub | 窄体编程字体 |
+| [Hack](docs/software/hack.md) | GitHub | 编程等宽字体 |
+| [朱雀仿宋](docs/software/zhuque.md) | GitHub，允许预发行版 | 中文正文仿宋字体 |
+| [electerm](docs/software/electerm.md) | GitHub | 终端与 SSH/SFTP |
+| [Notepad++](docs/software/notepad-plus-plus.md) | GitHub | Windows 文本编辑器 |
+| [RustDesk](docs/software/rustdesk.md) | GitHub | 远程桌面 |
+
+安装方法与配置示例：[字体安装与终端/编辑器配置](docs/configs/fonts.md)。
 
 ## 本地使用
 
@@ -51,7 +60,7 @@ docs/configs/         配置方法（人工维护）
 ## 设计边界与安全
 
 1. 只索引上游地址，不托管安装包、不破解、不自动安装软件。
-2. “最新版”表示**最近一次成功检查时，上游标记的稳定发布版**；以页面检查时间和上游发布页为准。API 的 latest 语义由上游决定，并非自行比较版本号。
+2. “最新版”表示**最近一次成功检查时，上游标记的稳定发布版**；显式启用预发行跟踪的条目按发布时间选择最新已发布版本并标注。以页面检查时间和上游发布页为准。API 的 latest 语义由上游决定，并非自行比较版本号。
 3. 官网页面千差万别，没有可靠的万能抓取器。新增官网需要设置并测试专用解析规则；网页改版、反爬、限流都可能造成失败。
 4. 更新说明保留上游原文，不进行未经验证的摘要或翻译。官网示例展示官方完整历史日志，不冒充只属于当前版本的说明。
 5. 下载前核对架构、系统版本、数字签名与上游校验值。收录不代表安全背书。

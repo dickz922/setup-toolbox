@@ -29,6 +29,8 @@ def load_catalog(path):
         if not isinstance(source, dict):
             raise ValueError('source must be an object')
         if source.get('type') == 'github':
+            if not isinstance(source.get('include_prereleases', False), bool):
+                raise ValueError('include_prereleases must be a JSON boolean')
             if not re.fullmatch(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+', source.get('repo', '')):
                 raise ValueError('GitHub repo must be owner/name')
         elif source.get('type') == 'html':
@@ -63,11 +65,27 @@ def collect(item, root, fetch):
             raise ValueError('Expected official plain-text changelog, received empty text or HTML')
         result = {'version': version, 'notes': notes, 'source_url': source['url'], 'published_at': None, 'downloads': downloads}
     else:
-        payload = json.loads(fetch('https://api.github.com/repos/' + source['repo'] + '/releases/latest'))
-        if payload.get('prerelease') or payload.get('draft'):
+        base = 'https://api.github.com/repos/' + source['repo'] + '/releases'
+        if source.get('include_prereleases') is True:
+            candidates = []
+            page = 1
+            while True:
+                batch = json.loads(fetch(base + '?per_page=100&page=' + str(page)))
+                if not isinstance(batch, list):
+                    raise ValueError('Expected GitHub releases list')
+                candidates.extend(r for r in batch if not r.get('draft') and r.get('published_at'))
+                if len(batch) < 100:
+                    break
+                page += 1
+            if not candidates:
+                raise ValueError('No published releases available')
+            payload = max(candidates, key=lambda r: r['published_at'])
+        else:
+            payload = json.loads(fetch(base + '/latest'))
+        if payload.get('draft') or (payload.get('prerelease') and not source.get('include_prereleases')):
             raise ValueError('Upstream did not return a stable published release')
         result = {'version': payload['tag_name'], 'notes': payload.get('body') or '',
-                  'source_url': payload['html_url'], 'published_at': payload.get('published_at'),
+                  'source_url': payload['html_url'], 'published_at': payload.get('published_at'), 'prerelease': bool(payload.get('prerelease')),
                   'downloads': [{'name': a['name'], 'url': a['browser_download_url']} for a in payload['assets']]}
     if not result['version'] or not result['downloads']:
         raise ValueError('Missing version or downloadable release assets')
@@ -111,12 +129,14 @@ def render(items, root):
         return quote(https_url(value), safe=':/?#@!$&*+,;=%~_-')
     directory = root / 'docs/software'
     directory.mkdir(parents=True, exist_ok=True)
-    index = ['# 软件目录', '', '[返回首页](../../README.md)', '', '版本为最近成功检查时的上游稳定版本，失败时保留旧数据。时间采用 UTC。', '', '| 软件 | 分类 | 平台 | 版本 | 状态 | 最近成功检查 |', '| --- | --- | --- | --- | --- | --- |']
+    index = ['# 软件目录', '', '[返回首页](../../README.md)', '', '默认跟踪上游稳定版；显式启用的预发行版会单独标注。失败时保留旧数据。时间采用 UTC。', '', '| 软件 | 分类 | 平台 | 版本 | 状态 | 最近成功检查 |', '| --- | --- | --- | --- | --- | --- |']
     for item in items:
         path = root / 'data' / (item['id'] + '.json')
         result = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
         status = '失败（旧数据，仅供参考）' if result.get('error') else ('正常' if result.get('checked_at') else '尚未采集')
         version = result.get('version', '尚未获取')
+        if result.get('prerelease'):
+            version = str(version) + '（预发行版）'
         checked = result.get('checked_at', '尚未成功检查')
         lines = ['# ' + text(item['name']), '', '[软件目录](README.md) · [首页](../../README.md)', '', text(item['description']), '', '- 分类：' + text(item['category']), '- 平台：' + text(' / '.join(item['platforms'])), '- 官网：<' + link_url(item['homepage']) + '>', '- 版本：' + text(version), '- 状态：' + status, '- 最近成功检查（UTC）：' + text(checked), '- 最近尝试（UTC）：' + text(result.get('last_attempt', '尚未尝试')), '- 上游发布时间：' + text(result.get('published_at') or '上游未提供'), '']
         if result.get('source_url'):

@@ -3,6 +3,7 @@
   "notes": "# Release v0.102.3101.0\r\n\r\nThis hotfix release improves File Explorer thumbnail generation, fixes Mouse Without Borders pairing failures, and restores optional diagnostic event reporting. See the [v0.102.2933.0 release notes](https://github.com/microsoft/PowerToys/releases/tag/v0.102.2933.0) for the full list of changes in PowerToys v0.102.\r\n\r\n## Installer Hashes\r\n\r\n| Description | Filename | SHA256 |\r\n| --- | --- | --- |\r\n| Per user - x64 | [PowerToysUserSetup-0.102.3101.0-x64.exe][ptUserX64] | `4B4C49A31E8B7E6A36647CCD3033ACB0AD56C306595A9409E59865C3C27D1CF2` |\r\n| Per user - ARM64 | [PowerToysUserSetup-0.102.3101.0-arm64.exe][ptUserArm64] | `E80D5E784173101BBB4BD95EDE66CF1974C230CA81EBEB16FEBA25FDD5FFCE87` |\r\n| Machine wide - x64 | [PowerToysSetup-0.102.3101.0-x64.exe][ptMachineX64] | `F1D24A49346167322EB64A2458BD82810519920D1DA4C0AEB1788E54C345D142` |\r\n| Machine wide - ARM64 | [PowerToysSetup-0.102.3101.0-arm64.exe][ptMachineArm64] | `65663AFB8FA77B4DB257BC9494F66AC91A2B063AE0BFE2CD85E9DE958C92EE8B` |\r\n\r\n## Highlights\r\n\r\nThis patch addresses three areas since the previous stable release.\r\n\r\n### File Explorer\r\n\r\n- Improved handling of stalled thumbnail renderers, isolated concurrent SVG requests, and preserved supported SVG formatting and UTF-8 STL names, in [#49950](https://github.com/microsoft/PowerToys/pull/49950).\r\n\r\n### General\r\n\r\n- Updated telemetry to version 2.0.5 and restored optional diagnostic event reporting from native and managed components, without changing diagnostic-data preferences, in [#51896](https://github.com/microsoft/PowerToys/pull/51896) and [#51940](https://github.com/microsoft/PowerToys/pull/51940).\r\n\r\n### Mouse Without Borders\r\n\r\n- Fixed Mouse Without Borders pairing failures that could show an untrusted-signature error in signed PowerToys builds, in [#51789](https://github.com/microsoft/PowerToys/pull/51789) by [@mvanhorn](https://github.com/mvanhorn).\r\n\r\n[ptUserX64]: https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-x64.exe\r\n[ptUserArm64]: https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-arm64.exe\r\n[ptMachineX64]: https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysSetup-0.102.3101.0-x64.exe\r\n[ptMachineArm64]: https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysSetup-0.102.3101.0-arm64.exe\r\n",
   "source_url": "https://github.com/microsoft/PowerToys/releases/tag/v0.102.3101",
   "published_at": "2026-11-06T09:54:30Z",
+  "prerelease": false,
   "downloads": [
     {
       "name": "GroupPolicyObjectFiles-0.102.3101.0.zip",
@@ -33,7 +34,7 @@
       "url": "https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/symbols-x64.zip"
     }
   ],
-  "checked_at": "2026-11-14T11:35:28+00:00",
-  "last_attempt": "2026-11-14T11:35:28+00:00",
+  "checked_at": "2026-11-14T11:55:50+00:00",
+  "last_attempt": "2026-11-14T11:55:50+00:00",
   "error": null
 }

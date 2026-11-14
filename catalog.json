@@ -4,7 +4,9 @@
       "id": "7zip",
       "name": "7-Zip",
       "category": "压缩与文件",
-      "platforms": ["Windows"],
+      "platforms": [
+        "Windows"
+      ],
       "homepage": "https://www.7-zip.org/",
       "description": "开源压缩工具；示例从官网采集版本、Windows x64 安装包及官方更新记录。",
       "source": {
@@ -19,28 +21,161 @@
       "id": "powertoys",
       "name": "Microsoft PowerToys",
       "category": "系统增强",
-      "platforms": ["Windows"],
+      "platforms": [
+        "Windows"
+      ],
       "homepage": "https://learn.microsoft.com/windows/powertoys/",
       "description": "微软开源效率工具集：窗口布局、快捷启动、批量重命名等。",
-      "source": {"type": "github", "repo": "microsoft/PowerToys"}
+      "source": {
+        "type": "github",
+        "repo": "microsoft/PowerToys"
+      }
     },
     {
       "id": "localsend",
       "name": "LocalSend",
       "category": "文件传输",
-      "platforms": ["Windows", "macOS", "Linux", "Android", "iOS"],
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android",
+        "iOS"
+      ],
       "homepage": "https://localsend.org/",
       "description": "跨平台局域网文件传输工具；移动平台可能需通过官方应用商店安装。",
-      "source": {"type": "github", "repo": "localsend/localsend"}
+      "source": {
+        "type": "github",
+        "repo": "localsend/localsend"
+      }
     },
     {
       "id": "ventoy",
       "name": "Ventoy",
       "category": "装机与启动",
-      "platforms": ["Windows", "Linux"],
+      "platforms": [
+        "Windows",
+        "Linux"
+      ],
       "homepage": "https://www.ventoy.net/",
       "description": "多镜像启动 U 盘工具。首次安装会涉及磁盘分区和格式化，操作前务必备份。",
-      "source": {"type": "github", "repo": "ventoy/Ventoy"}
+      "source": {
+        "type": "github",
+        "repo": "ventoy/Ventoy"
+      }
+    },
+    {
+      "id": "fira-code",
+      "name": "Fira Code",
+      "category": "字体",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "homepage": "https://github.com/tonsky/FiraCode",
+      "description": "带编程连字的等宽字体。macOS 可通过 Homebrew Cask 安装；安装与配置方法见 docs/configs/fonts.md。",
+      "source": {
+        "type": "github",
+        "repo": "tonsky/FiraCode"
+      }
+    },
+    {
+      "id": "iosevka",
+      "name": "Iosevka",
+      "category": "字体",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "homepage": "https://github.com/be5invis/Iosevka",
+      "description": "可定制的窄体编程字体，含多种字形与打包格式。macOS 可通过 Homebrew Cask 安装，按需求选择字体家族。",
+      "source": {
+        "type": "github",
+        "repo": "be5invis/Iosevka"
+      }
+    },
+    {
+      "id": "hack",
+      "name": "Hack",
+      "category": "字体",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "homepage": "https://github.com/source-foundry/Hack",
+      "description": "面向源代码阅读的等宽字体。桌面使用 TTF 包，Webfonts 包用于网页。",
+      "source": {
+        "type": "github",
+        "repo": "source-foundry/Hack"
+      }
+    },
+    {
+      "id": "electerm",
+      "name": "electerm",
+      "category": "终端与远程连接",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "homepage": "https://github.com/electerm/electerm",
+      "description": "跨平台终端与 SSH/SFTP 客户端。导出的连接配置可能包含敏感信息，不要提交公开仓库。",
+      "source": {
+        "type": "github",
+        "repo": "electerm/electerm"
+      }
+    },
+    {
+      "id": "notepad-plus-plus",
+      "name": "Notepad++",
+      "category": "文本编辑",
+      "platforms": [
+        "Windows"
+      ],
+      "homepage": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+      "description": "Windows 文本与代码编辑器。按 x86、x64 或 ARM64 选择官方安装包或便携包。",
+      "source": {
+        "type": "github",
+        "repo": "notepad-plus-plus/notepad-plus-plus"
+      }
+    },
+    {
+      "id": "zhuque",
+      "name": "朱雀仿宋",
+      "category": "字体",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "homepage": "https://github.com/TrionesType/zhuque",
+      "description": "开源中文仿宋字体。目前上游发布为预发行版，本条目显式跟踪并标注预发行状态，不当作正式稳定版。",
+      "source": {
+        "type": "github",
+        "repo": "TrionesType/zhuque",
+        "include_prereleases": true
+      }
+    },
+    {
+      "id": "rustdesk",
+      "name": "RustDesk",
+      "category": "远程桌面",
+      "platforms": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android",
+        "iOS"
+      ],
+      "homepage": "https://github.com/rustdesk/rustdesk",
+      "description": "开源远程桌面客户端。移动平台分发方式以上游为准；不要公开设备 ID、访问密码、服务器密钥或无人值守访问凭据。",
+      "source": {
+        "type": "github",
+        "repo": "rustdesk/rustdesk"
+      }
     }
   ]
 }

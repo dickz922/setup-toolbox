@@ -1,0 +1,36 @@
+{
+  "version": "v3.003",
+  "notes": "Hack v3.003;[3114f1256]-release\r\n\r\n[Changelog](https://github.com/source-foundry/Hack/blob/master/CHANGELOG.md)\r\n\r\n[![Hack Windows Installer](https://img.shields.io/badge/Windows-Installer-blue.svg?style=flat-square)](https://github.com/source-foundry/Hack-windows-installer/releases/tag/v1.6.0)",
+  "source_url": "https://github.com/source-foundry/Hack/releases/tag/v3.003",
+  "published_at": "2018-03-06T02:14:07Z",
+  "prerelease": false,
+  "downloads": [
+    {
+      "name": "Hack-v3.003-ttf.tar.gz",
+      "url": "https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.tar.gz"
+    },
+    {
+      "name": "Hack-v3.003-ttf.tar.xz",
+      "url": "https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.tar.xz"
+    },
+    {
+      "name": "Hack-v3.003-ttf.zip",
+      "url": "https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.zip"
+    },
+    {
+      "name": "Hack-v3.003-webfonts.tar.gz",
+      "url": "https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-webfonts.tar.gz"
+    },
+    {
+      "name": "Hack-v3.003-webfonts.tar.xz",
+      "url": "https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-webfonts.tar.xz"
+    },
+    {
+      "name": "Hack-v3.003-webfonts.zip",
+      "url": "https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-webfonts.zip"
+    }
+  ],
+  "checked_at": "2026-11-14T11:55:55+00:00",
+  "last_attempt": "2026-11-14T11:55:55+00:00",
+  "error": null
+}

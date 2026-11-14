@@ -2,6 +2,10 @@
 
 人工维护的配置知识，与自动采集目录分开。以下示例不包含任何私人环境信息。
 
+## 字体、终端与编辑器
+
+[字体安装与配置](fonts.md)：Fira Code、Iosevka、Hack、朱雀仿宋，以及 Homebrew 安装、VS Code 配置、验证与撤销。
+
 ## LocalSend：局域网传输
 
 适用：安装官方 LocalSend 客户端的设备。

@@ -1,0 +1,16 @@
+{
+  "version": "v0.212",
+  "notes": "预览测试版更新，注意：本版本仍在测试中，请谨慎使用。\r\n\r\nUpdate of the technical preview (beta) version. Note that this version is not production-ready.\r\n\r\n## 增加\r\n- #7 中提及的 69 个字形\r\n\r\n## Add\r\n- 69 glyphs mentioned in #7\r\n\r\n## 修复\r\n- 部分 OpenType 特性\r\n\r\n## Fix\r\n- Some OpenType features",
+  "source_url": "https://github.com/TrionesType/zhuque/releases/tag/v0.212",
+  "published_at": "2025-07-07T11:44:23Z",
+  "prerelease": true,
+  "downloads": [
+    {
+      "name": "ZhuqueFangsong-v0.212.zip",
+      "url": "https://github.com/TrionesType/zhuque/releases/download/v0.212/ZhuqueFangsong-v0.212.zip"
+    }
+  ],
+  "checked_at": "2026-11-14T11:55:58+00:00",
+  "last_attempt": "2026-11-14T11:55:58+00:00",
+  "error": null
+}

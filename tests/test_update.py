@@ -82,7 +82,7 @@ class CatalogTests(unittest.TestCase):
         spec.loader.exec_module(m)
         import json
         item = {'id': 'demo', 'name': 'Demo', 'category': 'Tools', 'platforms': ['Windows'], 'homepage': 'https://example.org/', 'description': 'demo', 'source': {'type': 'github', 'repo': 'owner/demo'}}
-        cases = [[dict(item, id='../escape')], [item, item], [dict(item, homepage='http://example.org')], [dict(item, source={'type': 'unknown'})], [dict(item, source={'type': 'github', 'repo': 'owner/repo/extra'})], [dict(item, platforms=[])]]
+        cases = [[dict(item, id='../escape')], [item, item], [dict(item, homepage='http://example.org')], [dict(item, source={'type': 'unknown'})], [dict(item, source={'type': 'github', 'repo': 'owner/repo/extra'})], [dict(item, platforms=[])], [dict(item, source={'type': 'github', 'repo': 'owner/demo', 'include_prereleases': 'true'})]]
         with tempfile.TemporaryDirectory() as root:
             path = Path(root) / 'catalog.json'
             path.write_text(json.dumps({'software': [item]}))
@@ -148,6 +148,30 @@ class RenderTests(unittest.TestCase):
             self.assertNotIn(b'line one  \n', page)
             self.assertIn(b'````text', page)
             self.assertEqual(json.loads(path.read_text())['notes'], notes)
+
+class PrereleaseTests(unittest.TestCase):
+    def test_explicit_prerelease_opt_in_selects_newest_published_and_labels_pages(self):
+        import json
+        spec = importlib.util.spec_from_file_location('update', PATH)
+        assert spec and spec.loader
+        m = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(m)
+        item = {'id': 'demo', 'name': 'Demo', 'category': '字体', 'platforms': ['macOS'], 'homepage': 'https://example.org/', 'description': 'demo', 'source': {'type': 'github', 'repo': 'owner/demo', 'include_prereleases': True}}
+        asset = {'name': 'font.zip', 'browser_download_url': 'https://example.org/font.zip'}
+        older = {'tag_name': 'v1', 'html_url': 'https://github.com/owner/demo/releases/tag/v1', 'published_at': '2026-01-01T00:00:00Z', 'body': 'old', 'assets': [asset], 'draft': False, 'prerelease': False}
+        latest = dict(older, tag_name='v2-beta', published_at='2026-02-01T00:00:00Z', prerelease=True)
+        urls = []
+        def fetch(url):
+            urls.append(url)
+            return json.dumps([dict(latest, draft=True, published_at='2026-03-01T00:00:00Z'), older, latest])
+        with tempfile.TemporaryDirectory() as root:
+            result = m.update_one(item, Path(root), fetch)
+            self.assertEqual(result.get('version'), 'v2-beta', result)
+            self.assertTrue(result['prerelease'])
+            self.assertIn('/releases?per_page=100&page=1', urls[0])
+            m.render([item], Path(root))
+            for name in ['demo.md', 'README.md']:
+                self.assertIn('预发行版', (Path(root) / 'docs/software' / name).read_text())
 
 if __name__ == '__main__':
     unittest.main()
