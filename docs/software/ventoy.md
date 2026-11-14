@@ -42,7 +42,7 @@
 10. Add support for custom Syslinux-based ISO. (#3760)
 11. Improvement for latest LinuxConsole release. (#3745)
 12. Add check for Boot Conf Replace entries in VentoyPlugson. (#3727 #3593)
-       
+
 
 **SHA256**
 ```

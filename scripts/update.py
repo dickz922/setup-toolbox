@@ -127,7 +127,7 @@ def render(items, root):
         lines += ['- [' + text(d['name']) + '](' + link_url(d['url']) + ')' for d in result.get('downloads', [])]
         if not result.get('downloads'):
             lines += ['尚未获取下载链接；请前往官网。']
-        notes = result.get('notes') or '上游未提供更新说明，或尚未成功采集。'
+        notes = '\n'.join(line.rstrip() for line in (result.get('notes') or '上游未提供更新说明，或尚未成功采集。').splitlines())
         fence = '`' * max(3, max((len(s) + 1 for s in re.findall(r'`+', notes)), default=3))
         lines += ['', '## 上游更新说明（原文）', '', '以下为上游原文的纯文本展示；官网来源可能提供完整历史日志，不仅当前版本。', '', fence + 'text', notes, fence, '']
         (directory / (item['id'] + '.md')).write_text('\n'.join(lines), encoding='utf-8')

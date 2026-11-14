@@ -129,5 +129,25 @@ class NetworkTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 m.fetch_text('http://example.org/')
 
+class RenderTests(unittest.TestCase):
+    def test_normalizes_display_whitespace_but_preserves_raw_notes(self):
+        spec = importlib.util.spec_from_file_location('update', PATH)
+        assert spec and spec.loader
+        m = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(m)
+        import json
+        item = {'id': 'demo', 'name': 'Demo', 'category': 'Tools', 'platforms': ['Windows'], 'homepage': 'https://example.org/', 'description': 'demo', 'source': {'type': 'github', 'repo': 'owner/demo'}}
+        notes = 'line one  \r\n```\r\n<script>not executable</script>\r\n'
+        with tempfile.TemporaryDirectory() as root:
+            path = Path(root) / 'data/demo.json'
+            path.parent.mkdir()
+            path.write_text(json.dumps({'version': 'v1', 'notes': notes, 'downloads': []}))
+            m.render([item], Path(root))
+            page = (Path(root) / 'docs/software/demo.md').read_bytes()
+            self.assertNotIn(b'\r', page)
+            self.assertNotIn(b'line one  \n', page)
+            self.assertIn(b'````text', page)
+            self.assertEqual(json.loads(path.read_text())['notes'], notes)
+
 if __name__ == '__main__':
     unittest.main()

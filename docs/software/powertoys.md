@@ -65,5 +65,4 @@ This patch addresses three areas since the previous stable release.
 [ptUserArm64]: https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysUserSetup-0.102.3101.0-arm64.exe
 [ptMachineX64]: https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysSetup-0.102.3101.0-x64.exe
 [ptMachineArm64]: https://github.com/microsoft/PowerToys/releases/download/v0.102.3101/PowerToysSetup-0.102.3101.0-arm64.exe
-
 ```

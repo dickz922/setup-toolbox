@@ -411,7 +411,7 @@ HISTORY of the 7-Zip
 - There is 2% speed optimization in 7-Zip benchmark's decompression.
 - Some bugs were fixed.
 
- 
+
 19.00          2019-02-21
 -------------------------
 - Encryption strength for 7z archives was increased:
@@ -427,7 +427,7 @@ HISTORY of the 7-Zip
 - Some bugs were fixed.
 - The bug in 7-Zip 18.02-18.05 was fixed: there was memory leak in xz decoder.
 - 7-Zip 18.02-18.05 used only one CPU thread for bz2 archive creation.
-  
+
 
 18.05          2018-04-30
 -------------------------
@@ -442,7 +442,7 @@ HISTORY of the 7-Zip
   Now 7-Zip doesn't use "Large Pages" on Windows 10 up to revision 1709 (16299).
 - The vulnerability in RAR unpacking code was fixed (CVE-2018-10115).
 - Some bugs were fixed.
- 
+
 
 18.03 beta     2018-03-04
 -------------------------
@@ -612,7 +612,7 @@ HISTORY of the 7-Zip
   7-Zip created incorrect ZIP archives, if ZipCrypto encryption was used.
   7-Zip 9.20 can extract such incorrect ZIP archives.
 - Some bugs were fixed.
-  
+
 
 9.38 beta      2015-01-03
 -------------------------
@@ -862,13 +862,13 @@ HISTORY of the 7-Zip
 - The support for archives in installers was improved.
 - Some bugs were fixed.
 - New localization: Kazakh.
-   
+
 
 9.10 beta      2009-12-22
 -------------------------
 - The BUG in 7-Zip 9.09 beta was fixed:
     7-Zip created incorrect ZIP archives, if ZipCrypto encryption was used.
-    
+
 
 9.09 beta      2009-12-12
 -------------------------
@@ -1133,7 +1133,7 @@ HISTORY of the 7-Zip
   To install this feature you must run 7-Zip File Manager at least once,
   close it and reboot system.
 - Some bugs were fixed
-  
+
 
 4.29 beta      2005-09-28
 -------------------------
@@ -1211,7 +1211,7 @@ HISTORY of the 7-Zip
 - Bug in v4.17 beta was fixed: 7-Zip File Manager could crash
   after some operations with archives
 
-  
+
 4.17 beta      2005-04-18
 -------------------------
 - To increase protection from viruses, 7-Zip now does not open
@@ -1283,7 +1283,7 @@ HISTORY of the 7-Zip
   - Some other bugs were fixed
 - Small internal changes
 
-  
+
 4.09 beta      2004-10-05
 -------------------------
 - Bugs in v4.0* were fixed:
@@ -1365,7 +1365,7 @@ HISTORY of the 7-Zip
 - Some bugs were fixed
 - New localization: Afrikaans
 
-  
+
 3.10           2003-09-27
 -------------------------
 - Drag-and-Drop from external application
@@ -1522,14 +1522,14 @@ HISTORY of the 7-Zip
 - Some bugs were fixed.
 - New localizations: Catalan, Norwegian, Romanian.
 
-  
+
 2.30 Beta 23   2002-09-07
 -------------------------
 - Encryption feature for zip format.
 - Percent indicating for some operations.
 - Some bugs were fixed.
 
-  
+
 2.30 Beta 22   2002-08-31
 -------------------------
 - New program: 7-Zip File Manager.
@@ -1541,7 +1541,7 @@ HISTORY of the 7-Zip
     directory items for file items.
 - Some bugs were fixed.
 
-  
+
 2.30 Beta 21   2002-07-08
 -------------------------
 - RAM requirements for LZMA (7z) compression were reduced.
@@ -1749,9 +1749,9 @@ HISTORY of the 7-Zip
     - Viewing properties of file by Ctrl-A.
     - Alt-F6 in archive now immediately extracts selected files
       to current directory.
-      
+
 - Some bugs were fixed:
-    
+
     - Entering to archive's subfolders in Explorer by clicking
       items in main window didn't work under Windows ME/2000.
     - Decompressing solid Rar archives sometimes gave error.
@@ -1815,5 +1815,4 @@ HISTORY of the 7-Zip
 
 
 End of document
-
 ```
