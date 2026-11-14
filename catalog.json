@@ -1,0 +1,46 @@
+{
+  "software": [
+    {
+      "id": "7zip",
+      "name": "7-Zip",
+      "category": "压缩与文件",
+      "platforms": ["Windows"],
+      "homepage": "https://www.7-zip.org/",
+      "description": "开源压缩工具；示例从官网采集版本、Windows x64 安装包及官方更新记录。",
+      "source": {
+        "type": "html",
+        "url": "https://www.7-zip.org/",
+        "version_regex": "Download 7-Zip ([0-9.]+)",
+        "download_regex": "href=\"(?P<url>[^\"]+/7z[0-9]+-x64\\.exe)\"",
+        "notes_url": "https://www.7-zip.org/history.txt"
+      }
+    },
+    {
+      "id": "powertoys",
+      "name": "Microsoft PowerToys",
+      "category": "系统增强",
+      "platforms": ["Windows"],
+      "homepage": "https://learn.microsoft.com/windows/powertoys/",
+      "description": "微软开源效率工具集：窗口布局、快捷启动、批量重命名等。",
+      "source": {"type": "github", "repo": "microsoft/PowerToys"}
+    },
+    {
+      "id": "localsend",
+      "name": "LocalSend",
+      "category": "文件传输",
+      "platforms": ["Windows", "macOS", "Linux", "Android", "iOS"],
+      "homepage": "https://localsend.org/",
+      "description": "跨平台局域网文件传输工具；移动平台可能需通过官方应用商店安装。",
+      "source": {"type": "github", "repo": "localsend/localsend"}
+    },
+    {
+      "id": "ventoy",
+      "name": "Ventoy",
+      "category": "装机与启动",
+      "platforms": ["Windows", "Linux"],
+      "homepage": "https://www.ventoy.net/",
+      "description": "多镜像启动 U 盘工具。首次安装会涉及磁盘分区和格式化，操作前务必备份。",
+      "source": {"type": "github", "repo": "ventoy/Ventoy"}
+    }
+  ]
+}

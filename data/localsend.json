@@ -1,0 +1,91 @@
+{
+  "version": "v1.18.2",
+  "notes": "This release fixes compatibility issues with 1.17.0 and earlier.\r\nNote: The Windows binaries have been updated to include a signature.\r\n\r\n- feat: drag and drop files into the \"Receive via link\" browser page\r\n- feat(desktop): allow customizing the web share pages by placing HTML files in a `web` folder next to the executable\r\n- feat(cli): add version info to the Windows executable\r\n- feat(linux): set actual version in the AppImage\r\n- security: do not follow HTTP redirects sent by peers\r\n- fix: restore compatibility with 1.17.0 and earlier versions on missing multicast networks\r\n- fix: devices running 1.17.0 and earlier could not add 1.18.0+ device as favorite\r\n- fix: ignore proxies, fixes \"TLS info not found\" when a system proxy (e.g. Shadowrocket) is enabled\r\n- fix: automatically restart the HTTP / multicast server when it dies or when the app resumes\r\n- fix: drag and drop with a mix of folders and files\r\n- fix: during transfer, add bottom padding when Advanced is open (@Chethan616)\r\n- fix: do not crash at startup when the executable path cannot be resolved (@Shlomo116)\r\n- fix(android): ignore unknown or invalid file modification times when reading files\r\n- i18n: add Armenian",
+  "source_url": "https://github.com/localsend/localsend/releases/tag/v1.18.2",
+  "published_at": "2026-08-21T14:02:01Z",
+  "downloads": [
+    {
+      "name": "LocalSend-1.18.2-android-arm32v7.apk",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm32v7.apk"
+    },
+    {
+      "name": "LocalSend-1.18.2-android-arm64v8.apk",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk"
+    },
+    {
+      "name": "LocalSend-1.18.2-android-google-play.apk",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-google-play.apk"
+    },
+    {
+      "name": "LocalSend-1.18.2-android-x64.apk",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-x64.apk"
+    },
+    {
+      "name": "LocalSend-1.18.2-linux-arm-64.deb",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.deb"
+    },
+    {
+      "name": "LocalSend-1.18.2-linux-arm-64.tar.gz",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.tar.gz"
+    },
+    {
+      "name": "LocalSend-1.18.2-linux-x86-64.AppImage",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.AppImage"
+    },
+    {
+      "name": "LocalSend-1.18.2-linux-x86-64.deb",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.deb"
+    },
+    {
+      "name": "LocalSend-1.18.2-linux-x86-64.tar.gz",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.tar.gz"
+    },
+    {
+      "name": "LocalSend-1.18.2-windows-arm-64.zip",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-arm-64.zip"
+    },
+    {
+      "name": "LocalSend-1.18.2-windows-x86-64-unsigned.exe",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64-unsigned.exe"
+    },
+    {
+      "name": "LocalSend-1.18.2-windows-x86-64.exe",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.exe"
+    },
+    {
+      "name": "LocalSend-1.18.2-windows-x86-64.zip",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.zip"
+    },
+    {
+      "name": "LocalSend-1.18.2.dmg",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2.dmg"
+    },
+    {
+      "name": "LocalSend-CLI-1.18.2-linux-arm-64.tar.gz",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-arm-64.tar.gz"
+    },
+    {
+      "name": "LocalSend-CLI-1.18.2-linux-x86-64.tar.gz",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-x86-64.tar.gz"
+    },
+    {
+      "name": "LocalSend-CLI-1.18.2-macos-arm-64.tar.gz",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-macos-arm-64.tar.gz"
+    },
+    {
+      "name": "LocalSend-CLI-1.18.2-macos-x86-64.tar.gz",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-macos-x86-64.tar.gz"
+    },
+    {
+      "name": "LocalSend-CLI-1.18.2-windows-arm-64.exe",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-arm-64.exe"
+    },
+    {
+      "name": "LocalSend-CLI-1.18.2-windows-x86-64.exe",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-x86-64.exe"
+    }
+  ],
+  "checked_at": "2026-11-14T11:32:36+00:00",
+  "last_attempt": "2026-11-14T11:32:36+00:00",
+  "error": null
+}

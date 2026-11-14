@@ -1,0 +1,27 @@
+{
+  "version": "v1.1.18",
+  "notes": "**Changelog**\r\n1. Experimental support for SteamOS recovery images. (#3712 #2875 #1815)\r\n2. Improve the Linux remount feature to make the ISO partition mountable out of the box on mainstream desktop distros. ([Notes](https://www.ventoy.net/en/doc_linux_remount.html))\r\n3. Suppress the duplicate disk icons in the sidebar on some Linux desktop distros.\r\n4. Change the ISO partition dm name to stable /dev/mapper/VentoyPart, please refer [Notes](https://www.ventoy.net/en/doc_linux_remount.html)\r\n5. Make the ISO partition mountable for CloneZilla. (#3274)\r\n6. Fix Fedora 45 beta boot issue.\r\n7. Fix the Windows/WinPE secure boot version check failed issue.\r\n8. Fix Persistence intermittently fails on Ubuntu desktop. (#3718)\r\n9. Fix the boot issue for Grml 2026.09. (#3751)\r\n10. Add support for custom Syslinux-based ISO. (#3760)\r\n11. Improvement for latest LinuxConsole release. (#3745)\r\n12. Add check for Boot Conf Replace entries in VentoyPlugson. (#3727 #3593)\r\n       \r\n\r\n**SHA256**\r\n```\r\nd86ff9de63d94c8b8f1f6b14d23c55af4b88e8207bf2893890892a6a97b1ad54  ventoy-1.1.18-linux.tar.gz\r\nee3917bd5a9973c0b2f8f3ef85048bf68ae089ec88f5561ad78b6ad308b51ab5  ventoy-1.1.18-livecd.iso\r\n082c478e8c432e1ac653899fcf50e3a4077a2851bc6112b5ddd30545962164a9  ventoy-1.1.18-windows.zip\r\n```\r\n\r\n<br><br><br><br>\r\n------------------------------------------------------------------------------------------------------------------------\r\nWana boot and install OS through network (PXE/HTTPBoot)? Welcome to my new project iVentoy.\r\n\r\nAbout iVentoy https://www.iventoy.com/\r\niVentoy is an enhanced version of the PXE/HTTPBoot server with .\r\nExtremely easy to use, Many advanced features.\r\nx86 Legacy BIOS, IA32 UEFI, x86_64 UEFI (Secure Boot), ARM64 UEFI and LoongArch64 UEFI mode supported\r\n110+ common types of OS supported (Windows/WinPE/Linux/Unix/VMware)\r\nTurn any PC, laptop, server, NAS, or Raspberry Pi into a PXE/HTTPBoot server instantly!\r\n......\r\n\r\n\n\n[![Download Ventoy](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ventoy/files/v1.1.18/)",
+  "source_url": "https://github.com/ventoy/Ventoy/releases/tag/v1.1.18",
+  "published_at": "2026-10-09T05:20:45Z",
+  "downloads": [
+    {
+      "name": "sha256.txt",
+      "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.18/sha256.txt"
+    },
+    {
+      "name": "ventoy-1.1.18-linux.tar.gz",
+      "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.18/ventoy-1.1.18-linux.tar.gz"
+    },
+    {
+      "name": "ventoy-1.1.18-livecd.iso",
+      "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.18/ventoy-1.1.18-livecd.iso"
+    },
+    {
+      "name": "ventoy-1.1.18-windows.zip",
+      "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.18/ventoy-1.1.18-windows.zip"
+    }
+  ],
+  "checked_at": "2026-11-14T11:32:37+00:00",
+  "last_attempt": "2026-11-14T11:32:37+00:00",
+  "error": null
+}
