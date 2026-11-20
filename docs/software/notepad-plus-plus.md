@@ -9,8 +9,8 @@ Windows 文本与代码编辑器。按 x86、x64 或 ARM64 选择官方安装包
 - 官网：<https://github.com/notepad-plus-plus/notepad-plus-plus>
 - 版本：v8.9.9.1
 - 状态：正常
-- 最近成功检查（UTC）：2026-11-19T08:45:20+00:00
-- 最近尝试（UTC）：2026-11-19T08:45:20+00:00
+- 最近成功检查（UTC）：2026-11-20T08:30:46+00:00
+- 最近尝试（UTC）：2026-11-20T08:30:46+00:00
 - 上游发布时间：2026-11-12T01:22:26Z
 
 上游发布/下载页：<https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.9.9.1>
