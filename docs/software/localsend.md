@@ -7,59 +7,131 @@
 - 分类：文件传输
 - 平台：Windows / macOS / Linux / Android / iOS
 - 官网：<https://localsend.org/>
-- 版本：v1.18.2
+- 版本：v1.19.0
 - 状态：正常
-- 最近成功检查（UTC）：2026-11-24T10:53:42+00:00
-- 最近尝试（UTC）：2026-11-24T10:53:42+00:00
-- 上游发布时间：2026-08-21T14:02:01Z
+- 最近成功检查（UTC）：2026-11-25T09:49:50+00:00
+- 最近尝试（UTC）：2026-11-25T09:49:50+00:00
+- 上游发布时间：2026-11-24T15:18:46Z
 
-上游发布/下载页：<https://github.com/localsend/localsend/releases/tag/v1.18.2>
+上游发布/下载页：<https://github.com/localsend/localsend/releases/tag/v1.19.0>
 
 ## 官方下载
 
 按文件名核对系统、架构和安装类型，下载前核对上游签名或校验值。
 
-- [LocalSend-1.18.2-android-arm32v7.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm32v7.apk)
-- [LocalSend-1.18.2-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-arm64v8.apk)
-- [LocalSend-1.18.2-android-google-play.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-google-play.apk)
-- [LocalSend-1.18.2-android-x64.apk](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-android-x64.apk)
-- [LocalSend-1.18.2-linux-arm-64.deb](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.deb)
-- [LocalSend-1.18.2-linux-arm-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-arm-64.tar.gz)
-- [LocalSend-1.18.2-linux-x86-64.AppImage](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.AppImage)
-- [LocalSend-1.18.2-linux-x86-64.deb](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.deb)
-- [LocalSend-1.18.2-linux-x86-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-linux-x86-64.tar.gz)
-- [LocalSend-1.18.2-windows-arm-64.zip](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-arm-64.zip)
-- [LocalSend-1.18.2-windows-x86-64-unsigned.exe](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64-unsigned.exe)
-- [LocalSend-1.18.2-windows-x86-64.exe](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.exe)
-- [LocalSend-1.18.2-windows-x86-64.zip](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.zip)
-- [LocalSend-1.18.2.dmg](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2.dmg)
-- [LocalSend-CLI-1.18.2-linux-arm-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-arm-64.tar.gz)
-- [LocalSend-CLI-1.18.2-linux-x86-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-linux-x86-64.tar.gz)
-- [LocalSend-CLI-1.18.2-macos-arm-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-macos-arm-64.tar.gz)
-- [LocalSend-CLI-1.18.2-macos-x86-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-macos-x86-64.tar.gz)
-- [LocalSend-CLI-1.18.2-windows-arm-64.exe](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-arm-64.exe)
-- [LocalSend-CLI-1.18.2-windows-x86-64.exe](https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-x86-64.exe)
+- [LocalSend-1.19.0-android-arm32v7.apk](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-android-arm32v7.apk)
+- [LocalSend-1.19.0-android-arm64v8.apk](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-android-arm64v8.apk)
+- [LocalSend-1.19.0-android-google-play.apk](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-android-google-play.apk)
+- [LocalSend-1.19.0-android-x64.apk](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-android-x64.apk)
+- [LocalSend-1.19.0-linux-arm-64.deb](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-linux-arm-64.deb)
+- [LocalSend-1.19.0-linux-arm-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-linux-arm-64.tar.gz)
+- [LocalSend-1.19.0-linux-x86-64.AppImage](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-linux-x86-64.AppImage)
+- [LocalSend-1.19.0-linux-x86-64.AppImage.zsync](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-linux-x86-64.AppImage.zsync)
+- [LocalSend-1.19.0-linux-x86-64.deb](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-linux-x86-64.deb)
+- [LocalSend-1.19.0-linux-x86-64.rpm](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-linux-x86-64.rpm)
+- [LocalSend-1.19.0-linux-x86-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-linux-x86-64.tar.gz)
+- [LocalSend-1.19.0-windows-arm-64.zip](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-windows-arm-64.zip)
+- [LocalSend-1.19.0-windows-x86-64.exe](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-windows-x86-64.exe)
+- [LocalSend-1.19.0-windows-x86-64.zip](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0-windows-x86-64.zip)
+- [LocalSend-1.19.0.dmg](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-1.19.0.dmg)
+- [LocalSend-CLI-1.19.0-linux-arm-64-musl.tar.gz](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-CLI-1.19.0-linux-arm-64-musl.tar.gz)
+- [LocalSend-CLI-1.19.0-linux-arm-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-CLI-1.19.0-linux-arm-64.tar.gz)
+- [LocalSend-CLI-1.19.0-linux-x86-64-musl.tar.gz](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-CLI-1.19.0-linux-x86-64-musl.tar.gz)
+- [LocalSend-CLI-1.19.0-linux-x86-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-CLI-1.19.0-linux-x86-64.tar.gz)
+- [LocalSend-CLI-1.19.0-macos-arm-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-CLI-1.19.0-macos-arm-64.tar.gz)
+- [LocalSend-CLI-1.19.0-macos-x86-64.tar.gz](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-CLI-1.19.0-macos-x86-64.tar.gz)
+- [LocalSend-CLI-1.19.0-windows-arm-64.exe](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-CLI-1.19.0-windows-arm-64.exe)
+- [LocalSend-CLI-1.19.0-windows-x86-64.exe](https://github.com/localsend/localsend/releases/download/v1.19.0/LocalSend-CLI-1.19.0-windows-x86-64.exe)
 
 ## 上游更新说明（原文）
 
 以下为上游原文的纯文本展示；官网来源可能提供完整历史日志，不仅当前版本。
 
 ```text
-This release fixes compatibility issues with 1.17.0 and earlier.
-Note: The Windows binaries have been updated to include a signature.
+This release also added the rpm package for the first time (e.g. for Fedora users).
+Please note a breaking change in the CLI when sending files.
 
-- feat: drag and drop files into the "Receive via link" browser page
-- feat(desktop): allow customizing the web share pages by placing HTML files in a `web` folder next to the executable
-- feat(cli): add version info to the Windows executable
-- feat(linux): set actual version in the AppImage
-- security: do not follow HTTP redirects sent by peers
-- fix: restore compatibility with 1.17.0 and earlier versions on missing multicast networks
-- fix: devices running 1.17.0 and earlier could not add 1.18.0+ device as favorite
-- fix: ignore proxies, fixes "TLS info not found" when a system proxy (e.g. Shadowrocket) is enabled
-- fix: automatically restart the HTTP / multicast server when it dies or when the app resumes
-- fix: drag and drop with a mix of folders and files
-- fix: during transfer, add bottom padding when Advanced is open (@Chethan616)
-- fix: do not crash at startup when the executable path cannot be resolved (@Shlomo116)
-- fix(android): ignore unknown or invalid file modification times when reading files
-- i18n: add Armenian
+- feat: make sending checksums opt-in (@Tienisto)
+- feat: format timestamps using system date and time settings (@ShlomoCode)
+- feat: add keyboard shortcuts to accept or decline incoming transfers (@Tienisto)
+- feat: restore hashtag codes for connecting to devices (@Tienisto)
+- feat: show an HTTPS badge in the device list tile when encryption is enabled (@Tienisto)
+- feat: show inbound/outbound reachability per device to help diagnose firewall issues (@Tienisto)
+- feat: add a copy button to the log screens (@ShlomoCode)
+- feat: add a Cancel button to the device name dialog (@ShlomoCode)
+- feat: group the changelog by release and type, and show what's new after an update (@ShlomoCode)
+- feat(cli): send text using --text, including input from stdin (@Tienisto)
+- feat(cli)!: replace `--file` with the `send` command for sending files and directories (@otanim)
+- feat(cli): add builds for Alpine Linux (@julianxhokaxhiu)
+- feat(desktop): add an option to keep the LocalSend window above other windows (@ShlomoCode)
+- feat(macos): use native window restoration to keep partially off-screen windows near their saved position (@ShlomoCode)
+- feat(linux): support delta updates for the AppImage (@ShlomoCode)
+- feat(linux): add x86_64 rpm package to release workflow (@basil)
+- feat(linux): add software rendering toggle with automatic fallback after a rendering crash (@Tienisto)
+- security: limit simultaneous incoming connections to prevent resource exhaustion (@Tienisto)
+- security: prevent senders without a client certificate from impersonating favorite devices while sharing via link (@Tienisto)
+- security(cli): sanitize remote text before displaying it in the terminal (@Tienisto)
+- perf: reduce memory use during file transfers (@luojiyin1987)
+- fix: strip request URLs from HTTP client errors so the PIN is not exposed (@Tienisto)
+- fix: prevent a startup crash with legacy Quick Save settings (@ShlomoCode)
+- fix: show the real error when a file cannot be read while sending, instead of transferring it as an empty file (@leopalmieri-spec)
+- fix: bound inline text previews to prevent large-message freezes (@kneeyard126)
+- fix: rank link-local IPv6 channels after IPv4 when choosing an address to dial (@Tienisto)
+- fix: limit connection setup for pinned HTTP clients to 5 seconds (@Tienisto)
+- fix: let cancellation interrupt reading prepare-upload and upload responses (@Tienisto)
+- fix: stop a send session that was cancelled while prepare-upload was answering (@Tienisto)
+- fix: avoid directory name collisions when receiving files (@ShlomoCode)
+- fix: accept PINs containing special characters (@ShlomoCode)
+- fix: release wakelock when a transfer fails (@bunnysayzz)
+- fix: normalize filenames to NFC so Korean jamo display correctly on Windows (@GhagSagar23)
+- fix: show the actual save location path for receiving files (@ShlomoCode)
+- fix: allow scrolling in the edit favorites dialog (@samdelong)
+- fix: validate the port when adding or editing a favorite device (@ShlomoCode)
+- fix: show an error when web share translations fail to load (@ShlomoCode)
+- fix: keep device name unchanged when cancelling the dialog (@ShlomoCode)
+- fix: close favorite editor after confirming changes (@ShlomoCode)
+- fix: pressing Enter now confirms file renaming (@ShlomoCode)
+- fix: avoid adding a trailing dot when renaming files without an extension (@ShlomoCode)
+- fix: hide unsupported troubleshooting options (@ShlomoCode)
+- fix: apply zero-padding when numbering renamed files (@A-M-D-R-3-W)
+- fix: avoid division by zero on the progress page when a file fails in the millisecond the session starts (@Tienisto)
+- fix: keep the message input dialog usable with large text and an open keyboard (@ArtemChikolaev)
+- fix: preserve the extension case and leading dot when numbering duplicate file names (@lingyicute)
+- fix(cli): cancel pending web shortcuts when pressing non-character keys (@ShlomoCode)
+- fix(desktop): respect custom error-403.html even when web sharing is disabled (@Tienisto)
+- fix(mobile): prevent incomplete cache cleanup (@ShlomoCode)
+- fix(android): allow receiving files with the same name after moving them to Trash (@ShlomoCode)
+- fix(android): preserve file modification times when saving media to the gallery (@ShlomoCode)
+- fix(android): keep file names when saving to a custom folder (@Tienisto)
+- fix(android): can't open files with unrecognized extensions (@ShlomoCode)
+- fix(android): avoid display flashes when opening or closing the app on some Android TVs (@ShlomoCode)
+- fix(android): use the phone's configured name or model when selecting "Use system name" in settings (@ShlomoCode)
+- fix(android): show an error when loading the installed apps list fails (@ShlomoCode)
+- fix(ios): show LocalSend in the share menu on iOS 14 and 15 (@ShlomoCode)
+- fix(ios): send shared links as text instead of two TXT files (@ShlomoCode)
+- fix(macos): prevent intermittent MissingPluginException during startup (@ShlomoCode)
+- fix(macos): file sharing via Share Extension doesn't work in DMG builds (@ShlomoCode, @vdmkotai)
+- fix(macos): make Command+W close the window reliably (@ShlomoCode)
+- fix(windows): fix LocalSend not opening after installation via WinGet (@ShlomoCode)
+- fix(windows): correct the MSIX helper architecture in ARM64 builds (@Tienisto)
+- fix(windows): sign the embedded uninstaller as well as the installer (@Tienisto)
+- fix(windows): close the running app and remove autostart, the Send to shortcut and firewall rules on uninstall (@Tienisto)
+- fix(windows): show the LocalSend icon in the Share Sheet and "Share with" menu (@ShlomoCode)
+- fix(linux): prevent .deb startup failure when legacy AppIndicator is installed (@Tienisto)
+- fix(linux): load bundled Rust library relative to the executable (@ShlomoCode)
+- fix(linux): add EGL and GLES dependencies to deb package (@ShlomoCode)
+- fix(linux): require glibc 2.34 when installing the DEB package (@ShlomoCode)
+- fix(linux): Flatpak drag-and-drop for files outside Downloads (@loucass)
+- fix(linux): keep keyboard shortcuts working when Num Lock is enabled (@ShlomoCode)
+- fix(linux): respect `XDG_CONFIG_HOME`, safely remove the desktop entry, and set its icon (@vicajilau)
+- fix(linux): install rpm icon without setuid, set StartupWMClass and require libappindicator-gtk3 (@Tienisto)
+- fix(linux): name rpm desktop file after the application id so KWin shows the app icon (@Tienisto)
+- fix(linux): wrong window icon in deb installations on KDE Wayland (@Tienisto)
+- fix(linux): tray icon fails to load in Snap installations (@vicajilau)
+- fix(linux): show the AppImage icon in the GNOME dash (@ShlomoCode)
+- fix(linux): restore the dock icon for deb installations (@vicajilau)
+- fix(linux): show "LocalSend" as title in the system tray (@Josephur)
+- fix(linux): match the native title bar to the app theme (@ShlomoCode)
+- fix(linux): don't show the farewell message during deb upgrades or reinstalls (@ShlomoCode)
+- i18n: add Kyrgyz (@nidara-duo)
 ```
