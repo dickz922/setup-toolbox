@@ -1,1824 +1,1824 @@
 {
-  "version": "v34.9.1",
-  "notes": "## Quick picker\n| Font Style | Code Editor | Terminal | Quasi-Proportional |\n|------------|-------------|----------|--------------------|\n| Sans-Serif | [📦 Iosevka](https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-Iosevka-34.9.1.zip) |[📦 Iosevka Term](https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTerm-34.9.1.zip) |[📦 Iosevka Aile](https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaAile-34.9.1.zip) |\n| Serif | [📦 Iosevka Slab](https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSlab-34.9.1.zip) |[📦 Iosevka Term Slab](https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSlab-34.9.1.zip) |[📦 Iosevka Etoile](https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaEtoile-34.9.1.zip) |\n\n------\n\n<table>\n<tr><td align=\"center\"><h2><a href=\"https://github.com/be5invis/Iosevka/blob/v34.9.1/doc/PACKAGE-LIST.md\">View package list</a></h2></td></tr>\n<tr><td align=\"center\"><a href=\"https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SHA-256.txt\">SHA-256 hashes</a></td></tr>\n</table>\n\n\n## Changes of version 34.9.1\n* Add Characters:\n  - LATIN CAPITAL LETTER V WITH DIAGONAL STROKE (`U+A75E`) ... LATIN SMALL LETTER V WITH DIAGONAL STROKE (`U+A75F`) (#1925).\n  - LATIN SMALL LETTER E WITH FLOURISH (`U+AB34`) (#1894).\n* Refine shape of the following characters:\n  - LATIN CAPITAL LETTER A WITH STROKE (`U+023A`).\n  - LATIN SMALL LETTER R WITH FISHHOOK (`U+027E`).\n  - GREEK SMALL LETTER ZETA (`U+03B6`).\n  - GREEK SMALL LETTER XI (`U+03BE`).\n  - GREEK SMALL LETTER FINAL SIGMA (`U+03C2`).\n  - GREEK SMALL LETTER STIGMA (`U+03D8`).\n  - CYRILLIC CAPITAL LETTER KSI (`U+046E`).\n  - CYRILLIC SMALL LETTER KSI (`U+046F`).\n  - LATIN SMALL LETTER R WITH FISHHOOK AND MIDDLE TILDE (`U+1D73`).\n  - MODIFIER LETTER SMALL R WITH FISHHOOK (`U+107A9`).\n  - LATIN SMALL LETTER DEZH DIGRAPH WITH PALATAL HOOK (`U+1DF12`).\n  - LATIN SMALL LETTER R WITH FISHHOOK AND PALATAL HOOK (`U+1DF16`).\n  - LATIN SMALL LETTER EZH WITH PALATAL HOOK (`U+1DF18`).\n  - LATIN SMALL LETTER TS DIGRAPH WITH PALATAL HOOK (`U+1DF38`).\n  - LATIN CAPITAL LETTER O WITH CURL (`U+1DF72`).\n  - LATIN SMALL LETTER O WITH CURL (`U+1DF73`).\n\n",
-  "source_url": "https://github.com/be5invis/Iosevka/releases/tag/v34.9.1",
-  "published_at": "2026-10-24T14:54:37Z",
+  "version": "v34.9.2",
+  "notes": "## Quick picker\n| Font Style | Code Editor | Terminal | Quasi-Proportional |\n|------------|-------------|----------|--------------------|\n| Sans-Serif | [📦 Iosevka](https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-Iosevka-34.9.2.zip) |[📦 Iosevka Term](https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTerm-34.9.2.zip) |[📦 Iosevka Aile](https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaAile-34.9.2.zip) |\n| Serif | [📦 Iosevka Slab](https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSlab-34.9.2.zip) |[📦 Iosevka Term Slab](https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSlab-34.9.2.zip) |[📦 Iosevka Etoile](https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaEtoile-34.9.2.zip) |\n\n------\n\n<table>\n<tr><td align=\"center\"><h2><a href=\"https://github.com/be5invis/Iosevka/blob/v34.9.2/doc/PACKAGE-LIST.md\">View package list</a></h2></td></tr>\n<tr><td align=\"center\"><a href=\"https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SHA-256.txt\">SHA-256 hashes</a></td></tr>\n</table>\n\n\n## Changes of version 34.9.2\n* Add Latin/Greek localization forms for UPA (`*-fonupa`).\n* Make Latin Open O (`Ɔ`, `ɔ`) and Lower Turned E (`ǝ`) follow serif variants of Cyrillic E (`Э`, `э`).\n* Add Characters:\n  - UAE DIRHAM SIGN (`U+20C3`).\n* Refine shape of the following characters:\n  - LATIN SMALL LETTER Y WITH DOT BELOW (`U+1EF5`).\n\n",
+  "source_url": "https://github.com/be5invis/Iosevka/releases/tag/v34.9.2",
+  "published_at": "2026-11-26T14:40:47Z",
   "prerelease": false,
   "downloads": [
     {
-      "name": "PkgTTC-Iosevka-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-Iosevka-34.9.1.zip"
+      "name": "PkgTTC-Iosevka-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-Iosevka-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaAile-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaAile-34.9.1.zip"
+      "name": "PkgTTC-IosevkaAile-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaAile-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaCurly-34.9.1.zip"
+      "name": "PkgTTC-IosevkaCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaCurly-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaCurlySlab-34.9.1.zip"
+      "name": "PkgTTC-IosevkaCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaEtoile-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaEtoile-34.9.1.zip"
+      "name": "PkgTTC-IosevkaEtoile-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaEtoile-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSlab-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS01-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS01-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS02-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS02-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS03-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS03-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS04-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS04-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS05-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS05-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS06-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS06-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS07-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS07-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS08-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS08-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS09-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS09-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS10-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS10-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS11-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS11-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS12-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS12-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS13-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS13-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS14-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS14-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS15-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS15-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS16-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS16-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS17-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS17-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-IosevkaSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-IosevkaSS18-34.9.1.zip"
+      "name": "PkgTTC-IosevkaSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-IosevkaSS18-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-Iosevka-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-Iosevka-34.9.1.zip"
+      "name": "PkgTTC-SGr-Iosevka-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-Iosevka-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaCurly-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaCurly-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaCurlySlab-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixed-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixed-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixed-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixed-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedCurly-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedCurly-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedCurlySlab-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSlab-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS01-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS01-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS02-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS02-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS03-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS03-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS04-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS04-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS05-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS05-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS06-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS06-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS07-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS07-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS08-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS08-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS09-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS09-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS10-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS10-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS11-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS11-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS12-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS12-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS13-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS13-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS14-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS14-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS15-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS15-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS16-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS16-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS17-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS17-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaFixedSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaFixedSS18-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaFixedSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaFixedSS18-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSlab-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS01-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS01-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS02-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS02-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS03-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS03-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS04-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS04-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS05-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS05-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS06-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS06-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS07-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS07-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS08-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS08-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS09-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS09-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS10-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS10-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS11-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS11-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS12-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS12-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS13-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS13-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS14-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS14-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS15-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS15-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS16-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS16-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS17-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS17-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaSS18-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaSS18-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTerm-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTerm-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTerm-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTerm-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermCurly-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermCurly-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermCurlySlab-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSlab-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS01-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS01-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS02-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS02-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS03-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS03-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS04-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS04-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS05-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS05-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS06-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS06-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS07-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS07-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS08-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS08-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS09-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS09-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS10-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS10-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS11-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS11-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS12-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS12-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS13-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS13-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS14-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS14-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS15-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS15-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS16-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS16-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS17-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS17-34.9.2.zip"
     },
     {
-      "name": "PkgTTC-SGr-IosevkaTermSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTC-SGr-IosevkaTermSS18-34.9.1.zip"
+      "name": "PkgTTC-SGr-IosevkaTermSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTC-SGr-IosevkaTermSS18-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Iosevka-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Iosevka-34.9.1.zip"
+      "name": "PkgTTF-Iosevka-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Iosevka-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaAile-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaAile-34.9.1.zip"
+      "name": "PkgTTF-IosevkaAile-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaAile-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaCurly-34.9.1.zip"
+      "name": "PkgTTF-IosevkaCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaCurly-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaCurlySlab-34.9.1.zip"
+      "name": "PkgTTF-IosevkaCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaEtoile-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaEtoile-34.9.1.zip"
+      "name": "PkgTTF-IosevkaEtoile-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaEtoile-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixed-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixed-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixed-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixed-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedCurly-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedCurly-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedCurlySlab-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSlab-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS01-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS01-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS02-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS02-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS03-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS03-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS04-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS04-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS05-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS05-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS06-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS06-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS07-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS07-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS08-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS08-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS09-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS09-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS10-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS10-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS11-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS11-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS12-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS12-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS13-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS13-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS14-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS14-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS15-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS15-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS16-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS16-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS17-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS17-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaFixedSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaFixedSS18-34.9.1.zip"
+      "name": "PkgTTF-IosevkaFixedSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaFixedSS18-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSlab-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS01-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS01-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS02-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS02-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS03-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS03-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS04-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS04-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS05-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS05-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS06-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS06-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS07-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS07-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS08-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS08-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS09-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS09-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS10-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS10-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS11-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS11-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS12-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS12-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS13-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS13-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS14-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS14-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS15-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS15-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS16-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS16-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS17-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS17-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaSS18-34.9.1.zip"
+      "name": "PkgTTF-IosevkaSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaSS18-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTerm-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTerm-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTerm-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTerm-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermCurly-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermCurly-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermCurlySlab-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSlab-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS01-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS01-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS02-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS02-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS03-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS03-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS04-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS04-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS05-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS05-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS06-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS06-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS07-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS07-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS08-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS08-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS09-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS09-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS10-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS10-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS11-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS11-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS12-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS12-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS13-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS13-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS14-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS14-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS15-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS15-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS16-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS16-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS17-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS17-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-IosevkaTermSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-IosevkaTermSS18-34.9.1.zip"
+      "name": "PkgTTF-IosevkaTermSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-IosevkaTermSS18-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-Iosevka-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-Iosevka-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-Iosevka-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-Iosevka-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaAile-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaAile-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaAile-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaAile-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaCurly-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaCurly-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaCurlySlab-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaEtoile-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaEtoile-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaEtoile-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaEtoile-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixed-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixed-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixed-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixed-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedCurly-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedCurly-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedCurlySlab-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSlab-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS01-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS01-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS02-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS02-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS03-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS03-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS04-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS04-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS05-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS05-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS06-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS06-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS07-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS07-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS08-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS08-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS09-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS09-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS10-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS10-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS11-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS11-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS12-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS12-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS13-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS13-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS14-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS14-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS15-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS15-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS16-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS16-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS17-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS17-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaFixedSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaFixedSS18-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaFixedSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaFixedSS18-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSlab-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS01-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS01-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS02-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS02-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS03-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS03-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS04-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS04-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS05-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS05-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS06-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS06-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS07-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS07-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS08-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS08-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS09-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS09-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS10-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS10-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS11-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS11-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS12-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS12-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS13-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS13-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS14-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS14-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS15-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS15-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS16-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS16-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS17-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS17-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaSS18-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaSS18-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTerm-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTerm-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTerm-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTerm-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermCurly-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermCurly-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermCurlySlab-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSlab-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSlab-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS01-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS01-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS02-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS02-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS03-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS03-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS04-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS04-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS05-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS05-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS06-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS06-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS07-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS07-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS08-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS08-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS09-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS09-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS10-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS10-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS11-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS11-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS12-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS12-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS13-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS13-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS14-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS14-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS15-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS15-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS16-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS16-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS17-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS17-34.9.2.zip"
     },
     {
-      "name": "PkgTTF-Unhinted-IosevkaTermSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Unhinted-IosevkaTermSS18-34.9.1.zip"
+      "name": "PkgTTF-Unhinted-IosevkaTermSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgTTF-Unhinted-IosevkaTermSS18-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Iosevka-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Iosevka-34.9.1.zip"
+      "name": "PkgWebFont-Iosevka-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Iosevka-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaAile-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaAile-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaAile-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaAile-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaCurly-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaCurly-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaCurlySlab-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaEtoile-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaEtoile-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaEtoile-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaEtoile-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixed-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixed-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixed-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixed-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedCurly-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedCurly-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedCurlySlab-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSlab-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSlab-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS01-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS01-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS02-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS02-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS03-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS03-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS04-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS04-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS05-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS05-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS06-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS06-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS07-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS07-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS08-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS08-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS09-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS09-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS10-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS10-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS11-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS11-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS12-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS12-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS13-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS13-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS14-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS14-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS15-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS15-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS16-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS16-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS17-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS17-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaFixedSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaFixedSS18-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaFixedSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaFixedSS18-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSlab-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSlab-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS01-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS01-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS02-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS02-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS03-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS03-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS04-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS04-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS05-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS05-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS06-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS06-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS07-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS07-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS08-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS08-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS09-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS09-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS10-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS10-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS11-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS11-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS12-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS12-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS13-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS13-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS14-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS14-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS15-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS15-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS16-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS16-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS17-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS17-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaSS18-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaSS18-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTerm-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTerm-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTerm-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTerm-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermCurly-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermCurly-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermCurlySlab-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSlab-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSlab-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS01-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS01-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS02-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS02-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS03-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS03-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS04-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS04-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS05-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS05-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS06-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS06-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS07-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS07-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS08-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS08-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS09-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS09-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS10-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS10-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS11-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS11-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS12-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS12-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS13-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS13-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS14-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS14-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS15-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS15-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS16-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS16-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS17-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS17-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-IosevkaTermSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-IosevkaTermSS18-34.9.1.zip"
+      "name": "PkgWebFont-IosevkaTermSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-IosevkaTermSS18-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-Iosevka-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-Iosevka-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-Iosevka-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-Iosevka-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaAile-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaAile-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaAile-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaAile-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaCurly-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaCurly-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaCurlySlab-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaEtoile-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaEtoile-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaEtoile-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaEtoile-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixed-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixed-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixed-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixed-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedCurly-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedCurly-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedCurlySlab-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSlab-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSlab-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS01-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS01-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS02-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS02-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS03-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS03-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS04-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS04-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS05-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS05-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS06-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS06-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS07-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS07-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS08-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS08-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS09-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS09-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS10-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS10-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS11-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS11-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS12-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS12-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS13-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS13-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS14-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS14-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS15-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS15-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS16-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS16-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS17-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS17-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaFixedSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaFixedSS18-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaFixedSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaFixedSS18-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSlab-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSlab-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS01-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS01-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS02-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS02-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS03-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS03-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS04-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS04-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS05-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS05-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS06-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS06-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS07-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS07-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS08-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS08-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS09-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS09-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS10-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS10-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS11-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS11-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS12-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS12-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS13-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS13-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS14-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS14-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS15-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS15-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS16-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS16-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS17-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS17-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaSS18-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaSS18-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTerm-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTerm-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTerm-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTerm-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermCurly-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermCurly-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermCurlySlab-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermCurlySlab-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSlab-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSlab-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS01-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS01-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS02-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS02-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS03-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS03-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS04-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS04-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS05-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS05-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS06-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS06-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS07-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS07-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS08-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS08-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS09-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS09-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS10-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS10-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS11-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS11-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS12-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS12-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS13-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS13-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS14-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS14-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS15-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS15-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS16-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS16-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS17-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS17-34.9.2.zip"
     },
     {
-      "name": "PkgWebFont-Unhinted-IosevkaTermSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgWebFont-Unhinted-IosevkaTermSS18-34.9.1.zip"
+      "name": "PkgWebFont-Unhinted-IosevkaTermSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/PkgWebFont-Unhinted-IosevkaTermSS18-34.9.2.zip"
     },
     {
       "name": "SHA-256.txt",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SHA-256.txt"
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SHA-256.txt"
     },
     {
-      "name": "SuperTTC-Iosevka-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-Iosevka-34.9.1.zip"
+      "name": "SuperTTC-Iosevka-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-Iosevka-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaAile-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaAile-34.9.1.zip"
+      "name": "SuperTTC-IosevkaAile-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaAile-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaCurly-34.9.1.zip"
+      "name": "SuperTTC-IosevkaCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaCurly-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaCurlySlab-34.9.1.zip"
+      "name": "SuperTTC-IosevkaCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaCurlySlab-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaEtoile-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaEtoile-34.9.1.zip"
+      "name": "SuperTTC-IosevkaEtoile-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaEtoile-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSlab-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSlab-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS01-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS01-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS02-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS02-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS03-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS03-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS04-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS04-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS05-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS05-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS06-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS06-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS07-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS07-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS08-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS08-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS09-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS09-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS10-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS10-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS11-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS11-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS12-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS12-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS13-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS13-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS14-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS14-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS15-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS15-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS16-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS16-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS17-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS17-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-IosevkaSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-IosevkaSS18-34.9.1.zip"
+      "name": "SuperTTC-IosevkaSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-IosevkaSS18-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-Iosevka-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-Iosevka-34.9.1.zip"
+      "name": "SuperTTC-SGr-Iosevka-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-Iosevka-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaCurly-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaCurly-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaCurlySlab-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaCurlySlab-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixed-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixed-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixed-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixed-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedCurly-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedCurly-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedCurlySlab-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedCurlySlab-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSlab-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSlab-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS01-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS01-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS02-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS02-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS03-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS03-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS04-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS04-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS05-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS05-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS06-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS06-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS07-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS07-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS08-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS08-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS09-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS09-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS10-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS10-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS11-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS11-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS12-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS12-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS13-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS13-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS14-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS14-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS15-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS15-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS16-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS16-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS17-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS17-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaFixedSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaFixedSS18-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaFixedSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaFixedSS18-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSlab-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSlab-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS01-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS01-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS02-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS02-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS03-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS03-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS04-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS04-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS05-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS05-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS06-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS06-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS07-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS07-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS08-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS08-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS09-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS09-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS10-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS10-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS11-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS11-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS12-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS12-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS13-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS13-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS14-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS14-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS15-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS15-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS16-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS16-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS17-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS17-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaSS18-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaSS18-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTerm-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTerm-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTerm-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTerm-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermCurly-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermCurly-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermCurly-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermCurly-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermCurlySlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermCurlySlab-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermCurlySlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermCurlySlab-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSlab-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSlab-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSlab-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSlab-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS01-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS01-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS01-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS01-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS02-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS02-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS02-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS02-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS03-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS03-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS03-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS03-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS04-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS04-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS04-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS04-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS05-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS05-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS05-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS05-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS06-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS06-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS06-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS06-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS07-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS07-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS07-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS07-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS08-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS08-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS08-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS08-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS09-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS09-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS09-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS09-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS10-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS10-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS10-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS10-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS11-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS11-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS11-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS11-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS12-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS12-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS12-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS12-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS13-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS13-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS13-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS13-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS14-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS14-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS14-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS14-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS15-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS15-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS15-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS15-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS16-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS16-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS16-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS16-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS17-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS17-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS17-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS17-34.9.2.zip"
     },
     {
-      "name": "SuperTTC-SGr-IosevkaTermSS18-34.9.1.zip",
-      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/SuperTTC-SGr-IosevkaTermSS18-34.9.1.zip"
+      "name": "SuperTTC-SGr-IosevkaTermSS18-34.9.2.zip",
+      "url": "https://github.com/be5invis/Iosevka/releases/download/v34.9.2/SuperTTC-SGr-IosevkaTermSS18-34.9.2.zip"
     }
   ],
-  "checked_at": "2026-11-26T09:29:59+00:00",
-  "last_attempt": "2026-11-26T09:29:59+00:00",
+  "checked_at": "2026-11-27T09:39:19+00:00",
+  "last_attempt": "2026-11-27T09:39:19+00:00",
   "error": null
 }
